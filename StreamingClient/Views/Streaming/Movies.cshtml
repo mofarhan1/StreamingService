@@ -1,0 +1,56 @@
+﻿@using StreamingClient.ViewModels
+@using StreamingModel.StreamingDatabase
+@using StreamingClient
+
+@model StreamingModel.Model.StreamingService
+
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+<html>
+<body>
+
+
+
+    <h2>Index</h2>
+
+
+    <h4>StreamingService</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+    <h3>Movies</h3>
+
+    @{
+
+        StreamingContext _db = new StreamingContext();
+
+        foreach (var movie in Model.Movies)
+        {
+            <table>
+
+                <tr>
+                    <td>@Html.DisplayNameFor(m => movie.Titel)</td>
+                    <td>@Html.DisplayFor(m => movie.Titel) @Html.ActionLink("Detail", "MovieDetail", new { id = movie.ID}) </td>
+
+                </tr>
+
+            </table>
+
+        }
+
+
+    }
+
+
+</body>
+</html>

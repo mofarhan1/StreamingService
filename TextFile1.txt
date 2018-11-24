@@ -1,0 +1,55 @@
+  /* var query = from st in db.GetAllStreamingServices()
+                                            where st.Name == "MMMM"
+                                            select st;
+               
+			   
+			   
+			   var stService = query.FirstOrDefault<StreamingService>();*/
+                //db.Entry(StreamingService).Collection<>(s => s.Name).Load();
+              
+               // MessageBox.Show(db.GetAllStreamingServices().ToArray().ToString());
+
+			   Remove all 
+             db.Genres.RemoveRange(db.Genres.Where(a => a.ID == a.ID));
+
+
+			  format  document: Ctrl+K, Ctrl+D
+
+
+
+
+			    var query = (from u in _db.GetallUsers() 
+                         
+                         where u.UserName == user.UserName 
+                         select u
+            ).Any();
+
+            bool a = query;
+
+
+
+			///////////////////////Reove 
+			 var itemToRemove = db.Ratings.SingleOrDefault(x =>x.Score==-4); //returns a single item.
+
+            if (itemToRemove != null)
+            {
+                db.Ratings.Remove(itemToRemove);
+                db.SaveChanges();
+            }
+
+
+
+			  foreach (Movie s in movies)
+            {
+
+                if (s is Serie)
+                {
+                    MessageBox.Show(s.GetType().ToString());
+                    int index = movies.IndexOf(s);
+                    movies.RemoveAt(index);
+                    break;
+                    
+
+                }
+
+        }

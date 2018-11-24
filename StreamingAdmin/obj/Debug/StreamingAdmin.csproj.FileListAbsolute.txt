@@ -1,0 +1,75 @@
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.exe.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.exe
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.dll.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csprojAssemblyReference.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\App.g.cs
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin_MarkupCompile.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin_MarkupCompile.lref
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\MainWindow.baml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.g.resources
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.Properties.Resources.resources
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.GenerateResource.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.CopyComplete
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.exe
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\App_Data\StreamingDb.mdf
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\App_Data\StreamingDb_log.ldf
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.exe.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.exe
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.dll.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csprojAssemblyReference.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\App.g.cs
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin_MarkupCompile.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin_MarkupCompile.lref
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\MainWindow.baml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.g.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.Properties.Resources.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.GenerateResource.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.CopyComplete
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.exe
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\App_Data\Database1.mdf
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingAdmin\bin\Debug\App_Data\Database1_log.ldf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\App_Data\Database1.mdf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\App_Data\Database1_log.ldf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.exe.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.exe
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\StreamingAdmin.pdb
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\StreamingModel.dll.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csprojAssemblyReference.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\App.g.cs
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin_MarkupCompile.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin_MarkupCompile.lref
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\MainWindow.baml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.g.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.Properties.Resources.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.GenerateResource.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.csproj.CopyComplete
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.exe
+C:\Users\Maxammed\Desktop\streamingservice\StreamingAdmin\obj\Debug\StreamingAdmin.pdb

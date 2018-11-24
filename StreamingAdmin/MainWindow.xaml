@@ -1,0 +1,320 @@
+﻿<Window x:Class="StreamingAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StreamingAdmin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid Height="auto">
+        <TabControl>
+            <TabItem Header="Streaming Services">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="13*"/>
+                        <ColumnDefinition Width="56*"/>
+                        <ColumnDefinition Width="325*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label FontSize="32" VerticalContentAlignment="Center" Padding="20" Grid.ColumnSpan="2" Margin="0,0,21.6,0.4">Navn</Label>
+                    <TextBox Margin="10,10,9,8.4" FontSize="32" Grid.Column="1" VerticalContentAlignment="Center" Padding="10" Text="{Binding Name}" Grid.ColumnSpan="3"/>
+                    <Button FontSize="32" Margin="0,0,10,10.6" Padding="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="1" Click="OnAddServiceCliked">Tilføj Streaming Service</Button>
+                    <ListView  Name="lvDataBinding" Width="100"   Grid.ColumnSpan="2" Margin="20.4,195,642,0.6" Grid.RowSpan="2" Grid.Column="2">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <WrapPanel>
+                                    <TextBlock Text="Name: " />
+                                    <TextBlock Text="{Binding Name}" FontWeight="Bold" />
+
+                                </WrapPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Movies">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+
+
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition   Width="auto" />
+                        <ColumnDefinition   Width="auto" />
+                        <ColumnDefinition   Width="auto" />
+
+
+
+                    </Grid.ColumnDefinitions>
+                    <GroupBox  Grid.Column="0" Margin="0,0,0,0" >
+                        <StackPanel Name="stpMovie">
+                            <Label>Titel</Label>
+                            <TextBox Text="{Binding Titel}" ></TextBox>
+                            <Label>instruktøren</Label>
+                            <TextBox Text="{Binding Instruktoer}"></TextBox>
+                            <Label>tilgængelig fra</Label>
+                            <DatePicker Name="date_fra" >
+
+
+                            </DatePicker>
+                            <Label>tilgængelig til</Label>
+                            <DatePicker Name="date_til"   >
+
+                            </DatePicker>
+                            <Label>streamingtjeneste</Label>
+                            <ComboBox Name="comboboxStreamingtjenester"  SelectedValue="{Binding StreamingId}">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Name}"></TextBlock>
+
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                            <Label>GENRE</Label>
+                            <ListBox Name="listboxGenreFilm"   SelectionMode="Multiple">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Name}"></TextBlock>
+
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+
+                            <Button Margin="0,20,0,0"  Click="OnAddMovieCliked">Opret Film</Button>
+
+                        </StackPanel>
+
+                    </GroupBox>
+                    <GroupBox  Grid.Column="1" >
+                        <StackPanel>
+
+                            <ListView   Name="listviewFilm" Width="100" Height="150">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <WrapPanel>
+                                            <TextBlock Text="Titel: " />
+                                            <TextBlock Text="{Binding Titel}" FontWeight="Bold" />
+
+                                        </WrapPanel>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+
+
+
+                        </StackPanel>
+                    </GroupBox>
+
+                    
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Serier">
+                <Grid Margin="0,10,0,0">
+                    <Grid.RowDefinitions >
+                        <RowDefinition></RowDefinition>
+
+
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition   Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                    </Grid.ColumnDefinitions>
+                    <GroupBox Header="Serie" Grid.Column="0"  Margin="5,0,0,0">
+                        <StackPanel Name="stpSerie" >
+                            <Label>name</Label>
+                            <TextBox Text="{Binding Titel}" ></TextBox>
+                            <Label>instruktøren</Label>
+                            <TextBox Text="{Binding Instruktoer}" ></TextBox>
+                            <Label>tilgængelig fra</Label>
+                            <DatePicker Name="date_fra_serie" >
+
+
+                            </DatePicker>
+                            <Label>tilgængelig til</Label>
+                            <DatePicker Name="date_til_serie" >
+
+
+                            </DatePicker>
+                            <Label>streamingtjeneste</Label>
+                            <ComboBox Name="comboboxStreamingtjenesterSeries"  SelectedValue="{Binding StreamingId}"  >
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Name}"></TextBlock>
+
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                            <Label>Genre</Label>
+                            <ListBox Name="listboxGenreTabSeries" SelectionMode="Multiple">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Name}"></TextBlock>
+
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                            <Button Margin="0,20,0,0" Click="onCreateSerieClicked">Opret Serie</Button>
+                        </StackPanel>
+
+                    </GroupBox>
+                    <GroupBox Header="Seres list" Grid.Column="1">
+                        <ListView SelectionChanged="onSerieSelectedChange"  Name="listviewSerie" Width="100" Margin="0,10,0,352.2">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <WrapPanel>
+                                        <TextBlock Text="Titel: " />
+                                        <TextBlock Text="{Binding Titel}" FontWeight="Bold" />
+
+                                    </WrapPanel>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </GroupBox>
+
+                    <GroupBox Grid.Column="2" Header="Sæson" Margin="20,0,0,0">
+                        <StackPanel Name="stpSeasons" >
+
+                            <Label>Serie</Label>
+                            <TextBlock Text="{Binding Titel}"></TextBlock>
+
+                            <Label>sæson navn</Label>
+                            <TextBox Name="stpSeasonSeasonName" ></TextBox>
+                            <Button Click="onCreateSeasonClicked">Opret Sæson</Button>
+
+
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Grid.Column="3" Header="Sæson liste">
+
+                        <ListView SelectionChanged="onSeasoneSelectedChange"  Name="listviewSerieSeasonslist" Width="100" Margin="0,10,0,352.2">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <WrapPanel>
+                                        <TextBlock Text="Titel: " />
+                                        <TextBlock Text="{Binding Name}" FontWeight="Bold" />
+
+                                    </WrapPanel>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </GroupBox>
+                    <GroupBox Grid.Column="4" Header="Afsnit" Margin="20,0,0,0" Height="auto">
+                        <StackPanel Name="stpEposode" >
+                            <Label>Sæson</Label>
+                            <TextBlock Text="{Binding Name}"></TextBlock>
+
+                            <Label>Afsnit Navn</Label>
+                            <TextBox Name="stpEpisode_EpisodeTitel" Text="{Binding Titel}"  ></TextBox>
+                            <Label>Afsnit Nummer</Label>
+                            <TextBox Name="stpEpisodeEpisodeNumber" Text="{Binding EpisodeNummer}" ></TextBox>
+                            <Button Click="onCreateEpisodeClicked">Opret Asnit</Button>
+                        </StackPanel>
+
+                    </GroupBox>
+                    <GroupBox></GroupBox>
+
+                </Grid>
+
+            </TabItem>
+
+            <TabItem Header="Detail">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition   Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                        <ColumnDefinition Width="auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <GroupBox Grid.Column="0" Header="Movies">
+                        <StackPanel   Orientation="Horizontal">
+                            <ListView SelectedIndex="0" SelectionChanged="onDetailMovieSelctionChange"   Name="listviewDetailMovie" Width="100" Margin="0,0,0,184.2">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <WrapPanel>
+                                            <TextBlock Text="Titel: " />
+                                            <TextBlock Text="{Binding Titel}" FontWeight="Bold" />
+
+                                        </WrapPanel>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                            <StackPanel Name="stpDetailMovie" Orientation="Vertical" Margin="5,0,0,0">
+                                <TextBlock Text="{Binding Titel}"></TextBlock>
+                                <TextBlock Text="{Binding Instruktoer}"></TextBlock>
+                                <TextBlock Text="{Binding Tilgaengelig_Fra,StringFormat=d}"></TextBlock>
+                                <TextBlock Text="{Binding Tilgaengelig_Til,StringFormat=d}"></TextBlock>
+                                <TextBlock Text="{Binding Path = streamingService.Name}"></TextBlock>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </GroupBox>
+                    <GroupBox Grid.Column="1" Header="Serie">
+                        <StackPanel   Orientation="Horizontal">
+                            <ListView SelectedIndex="0"   Name="listviewDetailSerie" Width="100" Margin="0,0,0,184.2" SelectionChanged="onDetailSerieSelctChange">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <WrapPanel>
+                                            <TextBlock Text="Titel: " />
+                                            <TextBlock Text="{Binding Titel }" FontWeight="Bold" />
+
+                                        </WrapPanel>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                            <ListView   SelectionChanged="onlistviewDetailSeasonClicked"  Name="listviewDetailSeason" Width="100" Margin="4,0,0,184.2">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <WrapPanel>
+                                            <TextBlock Text="Titel: " />
+                                            <TextBlock Text="{Binding Name}" FontWeight="Bold" />
+
+                                        </WrapPanel>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                            <StackPanel Name="stpDetailSeason" Orientation="Vertical" Margin="5,0,0,0">
+                                <TextBlock Text="{Binding Name}"></TextBlock>
+                                <TextBlock Text="{Binding Serie}"></TextBlock>
+
+                                <ListView     Name="listviewDetailEpisode" Width="100" Margin="4,0,0,184.2" SelectionChanged="onlistviewDetailEpisodeClicked">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <WrapPanel>
+                                                <TextBlock Text="Titel: " />
+                                                <TextBlock Text="{Binding EpisodeNummer }" FontWeight="Bold" />
+
+                                            </WrapPanel>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+
+                            </StackPanel>
+                        </StackPanel>
+
+                    </GroupBox>
+                </Grid>
+
+            </TabItem>
+        </TabControl>
+    </Grid>
+
+</Window>

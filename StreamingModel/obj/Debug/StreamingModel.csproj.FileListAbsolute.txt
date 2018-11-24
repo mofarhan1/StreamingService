@@ -1,0 +1,72 @@
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.csprojAssemblyReference.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\StreamingModel.dll.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\StreamingModel.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\EntityFramework.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\EntityFramework.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.CopyComplete
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\App_Data\StreamingDb.mdf
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\App_Data\StreamingDb_log.ldf
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\StreamingModel.dll.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\StreamingModel.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\EntityFramework.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\EntityFramework.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.csprojAssemblyReference.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.InitialCreate.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.AddedMovies.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.multipleGenres.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.NameChangesFilmToMovies.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.NameChangesToStreamingServices.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.defert.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.newupdate.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.newupdate2.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.newupdate3.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.newupdate7.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.newupdate8.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.streamingId.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieup.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieub.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieubjkj.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieubdwfw.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieubdwfwff.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieubdwfwffwdwd.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.movieubdwfwffwdwdoo.resources
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.GenerateResource.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.CopyComplete
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingModel\obj\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\App_Data\Database1.mdf
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\bin\Debug\App_Data\Database1_log.ldf
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.llllkl.resources
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.GenerateResource.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.kjhjklæjhghj.resources
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.ggjg.resources
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.jdvenjwdv.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\App_Data\Database1.mdf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\App_Data\Database1_log.ldf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\StreamingModel.dll.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\StreamingModel.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\EntityFramework.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\EntityFramework.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.csprojAssemblyReference.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.llllkl.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.kjhjklæjhghj.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.ggjg.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.Migrations.jdvenjwdv.resources
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.GenerateResource.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.csproj.CopyComplete
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingModel\obj\Debug\StreamingModel.pdb

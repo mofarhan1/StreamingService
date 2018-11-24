@@ -1,0 +1,234 @@
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\obj\Debug\StreamingClient.csprojAssemblyReference.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\obj\Debug\StreamingClient.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\StreamingClient.dll.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\StreamingClient.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\StreamingClient.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\csc.exe
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\csc.exe.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\csc.rsp
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\csi.exe
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\csi.exe.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\csi.rsp
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.AppContext.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Console.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\vbc.exe
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\vbc.exe.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\vbc.rsp
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\EntityFramework.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\StreamingModel.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Helpers.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Mvc.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Razor.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Webpages.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\StreamingModel.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\StreamingModel.dll.config
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\EntityFramework.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Razor.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Webpages.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Helpers.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\System.Web.Mvc.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\obj\Debug\StreamingClient.csproj.CopyComplete
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\obj\Debug\StreamingClient.dll
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\obj\Debug\StreamingClient.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\App_Data\StreamingDb.mdf
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\App_Data\StreamingDb_log.ldf
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\StreamingClient.dll.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\StreamingClient.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\StreamingClient.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\csc.exe
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\csc.exe.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\csc.rsp
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\csi.exe
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\csi.exe.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\csi.rsp
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.AppContext.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Console.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\vbc.exe
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\vbc.exe.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\vbc.rsp
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\EntityFramework.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\StreamingModel.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Helpers.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Mvc.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Razor.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Webpages.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\StreamingModel.dll.config
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\EntityFramework.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Razor.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Webpages.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Helpers.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\System.Web.Mvc.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\obj\Debug\StreamingClient.csprojAssemblyReference.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\obj\Debug\StreamingClient.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\obj\Debug\StreamingClient.csproj.CopyComplete
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\obj\Debug\StreamingClient.dll
+C:\Users\Maxammed\Desktop\C sharp OB\streamingservice\StreamingClient\obj\Debug\StreamingClient.pdb
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\App_Data\Database1.mdf
+C:\Users\Maxammed\Source\Repos\streamingservice\StreamingClient\bin\App_Data\Database1_log.ldf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\App_Data\Database1.mdf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\App_Data\Database1_log.ldf
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\StreamingClient.dll.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\StreamingClient.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\StreamingClient.pdb
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\csc.exe
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\csc.exe.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\csc.rsp
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\csi.exe
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\csi.exe.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\csi.rsp
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.AppContext.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Console.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\vbc.exe
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\vbc.exe.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\vbc.rsp
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\EntityFramework.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\StreamingModel.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Helpers.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Mvc.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Razor.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Webpages.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\StreamingModel.pdb
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\StreamingModel.dll.config
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\EntityFramework.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Razor.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Webpages.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Helpers.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\System.Web.Mvc.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\obj\Debug\StreamingClient.csprojAssemblyReference.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\obj\Debug\StreamingClient.csproj.CoreCompileInputs.cache
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\obj\Debug\StreamingClient.csproj.CopyComplete
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\obj\Debug\StreamingClient.dll
+C:\Users\Maxammed\Desktop\streamingservice\StreamingClient\obj\Debug\StreamingClient.pdb

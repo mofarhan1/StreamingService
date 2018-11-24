@@ -1,0 +1,94 @@
+﻿@model StreamingModel.Models.Movie
+   @using StreamingModel.Models
+
+@{
+    ViewBag.Title = "MovieDetail";
+}
+
+<h2>MovieDetail</h2>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        @if (Model is Serie)
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.Titel)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Titel)
+            </dd>
+
+            <dt>
+                "Following"
+            </dt>
+            <dd>
+                @Model.getFollowing(Session["username"].ToString());
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.StreamingId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StreamingId)
+            </dd>
+
+        }
+        else
+        {
+            <dt>
+                @Html.DisplayNameFor(model => model.Titel)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Titel)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Instruktoer)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Instruktoer)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Tilgaengelig_Fra)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Tilgaengelig_Fra)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Tilgaengelig_Til)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Tilgaengelig_Til)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.StreamingId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StreamingId)
+            </dd>
+
+
+            <dt>
+                "Min Rating"
+            </dt>
+            <dd>
+                @Model.getMyScore(Session["username"].ToString());
+            </dd>
+        }
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Rate", "RateMovie", new { id = Model.ID }) |
+    @Html.ActionLink("Gå Tilbage", "Movies", new { id = Model.StreamingId })
+</p>

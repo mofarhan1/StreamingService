@@ -1,0 +1,31 @@
+﻿@model IEnumerable<StreamingModel.Model.StreamingService>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Home</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+
+
+
+                @Html.ActionLink(item.Name, "Movies", "Streaming", new { id = item.ID }, null)
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+

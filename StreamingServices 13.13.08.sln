@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingClient", "StreamingClient\StreamingClient.csproj", "{5A29543E-91F2-4100-A060-2F3458D310A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingAdmin", "StreamingAdmin\StreamingAdmin.csproj", "{0153E6F3-79A8-4961-85E0-1399EB7450BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingModel", "StreamingModel\StreamingModel.csproj", "{430449C6-3AB9-4356-95CD-2CF5384D001D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D13101E-8BCA-47EC-8FE9-BEA51C2E3F49}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A29543E-91F2-4100-A060-2F3458D310A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A29543E-91F2-4100-A060-2F3458D310A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A29543E-91F2-4100-A060-2F3458D310A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A29543E-91F2-4100-A060-2F3458D310A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0153E6F3-79A8-4961-85E0-1399EB7450BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0153E6F3-79A8-4961-85E0-1399EB7450BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0153E6F3-79A8-4961-85E0-1399EB7450BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0153E6F3-79A8-4961-85E0-1399EB7450BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430449C6-3AB9-4356-95CD-2CF5384D001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430449C6-3AB9-4356-95CD-2CF5384D001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430449C6-3AB9-4356-95CD-2CF5384D001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430449C6-3AB9-4356-95CD-2CF5384D001D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6AC88B-2B79-4966-92E0-D4F012CD25E4}
+	EndGlobalSection
+EndGlobal

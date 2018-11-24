@@ -1,0 +1,26 @@
+﻿@model StreamingClient.ViewModels.RatingViewModel
+@{
+    ViewBag.Title = "RateMovie";
+}
+
+<h2>RateMovie</h2>
+@Html.BeginForm(){
+
+
+
+
+@Html.DisplayFor(model => model.Rating.Score)
+@Html.EditorFor(model => model.Rating.Score)
+@Html.DisplayFor(model => model.MOvie.Titel)
+
+@Html.EditorFor(model => model.Rating.is_following)
+@Html.DisplayFor(model => model.Rating.is_following)
+
+@Html.HiddenFor(model => model.MOvie.ID)
+
+
+
+<button type="submit" value="Rate Movie">rate movie</button>
+
+}
+
